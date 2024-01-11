@@ -1,0 +1,1 @@
+This project aims to implement a simple and fast face detection algorithm using TensorFlow and Jupyter Notebook. It can detect faces in images or videos, and also recognize them if they are already stored in the database.
